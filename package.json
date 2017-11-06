@@ -1,0 +1,20 @@
+{
+  "name": "readt",
+  "version": "1.0.0",
+  "description": "Attempting to recreate reddit for learning purposes",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Mooney",
+  "license": "ISC"
+}
